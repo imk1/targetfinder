@@ -1,0 +1,54 @@
+/usr/lib/python3.5/site-packages/sklearn/externals/joblib/hashing.py:197: DeprecationWarning: Changing the shape of non-C contiguous array by
+descriptor assignment is deprecated. To maintain
+the Fortran contiguity of a multidimensional Fortran
+array, use 'a.T.view(...).T' instead
+  obj_bytes_view = obj.view(self.np.uint8)
+/usr/lib/python3.5/site-packages/sklearn/externals/joblib/hashing.py:197: DeprecationWarning: Changing the shape of non-C contiguous array by
+descriptor assignment is deprecated. To maintain
+the Fortran contiguity of a multidimensional Fortran
+array, use 'a.T.view(...).T' instead
+  obj_bytes_view = obj.view(self.np.uint8)
+/usr/lib/python3.5/site-packages/sklearn/externals/joblib/hashing.py:197: DeprecationWarning: Changing the shape of non-C contiguous array by
+descriptor assignment is deprecated. To maintain
+the Fortran contiguity of a multidimensional Fortran
+array, use 'a.T.view(...).T' instead
+  obj_bytes_view = obj.view(self.np.uint8)
+/usr/lib/python3.5/site-packages/sklearn/externals/joblib/hashing.py:197: DeprecationWarning: Changing the shape of non-C contiguous array by
+descriptor assignment is deprecated. To maintain
+the Fortran contiguity of a multidimensional Fortran
+array, use 'a.T.view(...).T' instead
+  obj_bytes_view = obj.view(self.np.uint8)
+/usr/lib/python3.5/site-packages/sklearn/externals/joblib/hashing.py:197: DeprecationWarning: Changing the shape of non-C contiguous array by
+descriptor assignment is deprecated. To maintain
+the Fortran contiguity of a multidimensional Fortran
+array, use 'a.T.view(...).T' instead
+  obj_bytes_view = obj.view(self.np.uint8)
+/usr/lib/python3.5/site-packages/sklearn/externals/joblib/hashing.py:197: DeprecationWarning: Changing the shape of non-C contiguous array by
+descriptor assignment is deprecated. To maintain
+the Fortran contiguity of a multidimensional Fortran
+array, use 'a.T.view(...).T' instead
+  obj_bytes_view = obj.view(self.np.uint8)
+/usr/lib/python3.5/site-packages/sklearn/externals/joblib/hashing.py:197: DeprecationWarning: Changing the shape of non-C contiguous array by
+descriptor assignment is deprecated. To maintain
+the Fortran contiguity of a multidimensional Fortran
+array, use 'a.T.view(...).T' instead
+  obj_bytes_view = obj.view(self.np.uint8)
+/usr/lib/python3.5/site-packages/sklearn/externals/joblib/hashing.py:197: DeprecationWarning: Changing the shape of non-C contiguous array by
+descriptor assignment is deprecated. To maintain
+the Fortran contiguity of a multidimensional Fortran
+array, use 'a.T.view(...).T' instead
+  obj_bytes_view = obj.view(self.np.uint8)
+/usr/lib/python3.5/site-packages/sklearn/externals/joblib/hashing.py:197: DeprecationWarning: Changing the shape of non-C contiguous array by
+descriptor assignment is deprecated. To maintain
+the Fortran contiguity of a multidimensional Fortran
+array, use 'a.T.view(...).T' instead
+  obj_bytes_view = obj.view(self.np.uint8)
+/usr/lib/python3.5/site-packages/sklearn/externals/joblib/hashing.py:197: DeprecationWarning: Changing the shape of non-C contiguous array by
+descriptor assignment is deprecated. To maintain
+the Fortran contiguity of a multidimensional Fortran
+array, use 'a.T.view(...).T' instead
+  obj_bytes_view = obj.view(self.np.uint8)
+Traceback (most recent call last):
+  File "classify.py", line 53, in <module>
+    test_X, test_y = load_data(sys.argv[2])
+IndexError: list index out of range
