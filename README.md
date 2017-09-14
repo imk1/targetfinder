@@ -1,3 +1,7 @@
+# This code base
+
+Much of this code and the rest of this README are taken from https://github.com/shwhalen/targetfinder.  Brian Hie and I created some new functions and added to some existing functions to build in more options for different types of features, input data types, and evaluation metrics.
+
 # TargetFinder
 
 TargetFinder is a pipeline for identifying and characterizing the gene targets of distal enhancers.  In "Enhancer-promoter interactions are encoded by complex genomic signatures on looping chromatin", Nature Genetics 2015 (to appear), we used TargetFinder to:
