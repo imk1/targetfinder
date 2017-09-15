@@ -1,6 +1,6 @@
 # This code base
 
-Much of this code and the rest of this README are taken from https://github.com/shwhalen/targetfinder.  Brian Hie and I created some new functions and added to some existing functions to build in more options for different types of features, input data types, and evaluation metrics.
+Much of this code and the rest of this README are taken from https://github.com/shwhalen/targetfinder.  Therefore, if you use this code, you should cite the following paper: http://www.nature.com/ng/journal/v48/n5/full/ng.3539.html.  Brian Hie and I created some new functions and added to some existing functions to build in more options for different types of features, input data types, and evaluation metrics.
 
 # TargetFinder
 
