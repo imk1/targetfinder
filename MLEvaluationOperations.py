@@ -17,8 +17,8 @@ def precision(y_true, y_score, decisionBoundary=0.5):
 	return precision[decision_index]
 	
 # Get the AUPRC
-def auprc(y_true, y_score):
-	with open('PRROC.R', 'r') as f:#load in the R code. 
+def auprc(y_true, y_score, path=""):
+	with open(path + 'PRROC.R', 'r') as f:#load in the R code. 
 		r_fxn_string = f.read()
 	r_auc_func = STAP(r_fxn_string, "auc_func")
 	r_auprc_results = r_auc_func.pr_curve(scores_class0 = robjects.vectors.FloatVector(y_score), weights_class0 = robjects.vectors.FloatVector(y_true))
